@@ -10,5 +10,4 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknujsp&langs_count=6&layout=compact"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=pknujsp&color=blue&style=flat-square&label=visitors" align="right" />
 </div>
