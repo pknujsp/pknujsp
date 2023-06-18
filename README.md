@@ -1,7 +1,3 @@
-Summary of @pknujsp  
-pknujsp primarily works on Android app development!  
-
-
 <div style="margin: 24px;">
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pknujsp&theme=transparent&hide_border=true&border_radius=5.0&date_format=%5BY.%5Dn.j&fire=EB1571"/>
