@@ -2,7 +2,7 @@
 data class Profile(
   val name = "Pknujsp",
   val interests = listOf("Android", "Kotlin", "Google", "Github"),
-  val keyWorks = listOf("Medilenz", "우정하자", "Rolling together",
+  val keyWorks = listOf("Medilenz App", "우정하자 App", "Rolling together App",
     "Android-smartdeeplink lib", "Android-blur lib",
     "Android-simpledialog lib", "BestWeather App", "Calendar platform App"
   )
