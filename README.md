@@ -1,3 +1,14 @@
+```
+data class Profile(
+  val name = "Pknujsp",
+  val interests = listOf("Android", "Kotlin", "Google", "Github"),
+  val keyWorks = listOf("Medilenz", "우정하자", "Rolling together",
+    "Android-smartdeeplink lib", "Android-blur lib",
+    "Android-simpledialog lib", "BestWeather App", "Calendar platform App"
+  )
+) : Dev()
+```
+
 <div style="margin: 24px;">
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pknujsp&theme=transparent&hide_border=true&border_radius=5.0&date_format=%5BY.%5Dn.j&fire=EB1571"/>
