@@ -3,7 +3,8 @@ data class Profile(
   val name = "Pknujsp",
   val interests = listOf("Android", "Kotlin", "Google", "Github"),
   val keyWorks = listOf("Medilenz App", "우정하자 App", "Rolling together App",
-    "Android-smartdeeplink lib", "Android-blur lib", "Kolin-KSealedBinding lib", "Android-simpledialog lib", "Weather Wizard App", "Calendar platform App"
+    "Android-smartdeeplink lib", "Android-blur lib", "Kolin-KSealedBinding lib",
+    "Android-simpledialog lib", "Weather Wizard App", "Calendar platform App"
   )
 ) : Dev()
 ```
