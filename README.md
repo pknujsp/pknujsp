@@ -3,8 +3,7 @@ data class Profile(
   val name = "Pknujsp",
   val interests = listOf("Android", "Kotlin", "Google", "Github"),
   val keyWorks = listOf("Medilenz App", "우정하자 App", "Rolling together App",
-    "Android-smartdeeplink lib", "Android-blur lib",
-    "Android-simpledialog lib", "BestWeather App", "Calendar platform App"
+    "Android-smartdeeplink lib", "Android-blur lib", "Kolin-KSealedBinding lib", "Android-simpledialog lib", "Weather Wizard App", "Calendar platform App"
   )
 ) : Dev()
 ```
@@ -34,6 +33,7 @@ data class Profile(
 | ![KakaoTalk_20230901_214556423](https://github.com/pknujsp/pknujsp/assets/48265129/703e51e7-a773-47e1-9ac3-03094b28b706) | ![KakaoTalk_20230901_214556423_03](https://github.com/pknujsp/pknujsp/assets/48265129/8db7c196-2443-4841-8350-31da1e04d051) | ![KakaoTalk_20230901_214556423_02](https://github.com/pknujsp/pknujsp/assets/48265129/7d91741b-48a4-4476-a58d-2d37cd6ea111) | ![KakaoTalk_20230901_214556423_01](https://github.com/pknujsp/pknujsp/assets/48265129/4d3c733e-d9bc-4c61-ab1e-efec2ffe9c78) |
 
 ### WeatherWizard
+(https://github.com/pknujsp/WeatherWizard)
 
 > 여러 개의 날씨 제공사의 예보 정보를 비교할 수 있는 안드로이드 날씨 애플리케이션
 
