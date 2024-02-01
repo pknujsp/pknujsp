@@ -1,7 +1,7 @@
 ## Applications(Android)
 
 ### 에브리웨더 - 날씨 정보 여기에서 모두 온에어!
-([https://github.com/pknujsp/](https://play.google.com/store/apps/details?id=io.github.pknujsp.everyweather))
+(https://play.google.com/store/apps/details?id=io.github.pknujsp.everyweather)
 
 > 날씨 정보를 Ai로 요약받고, 여러 개의 날씨 제공사의 예보를 비교할 수 있는 안드로이드 날씨 애플리케이션
 
