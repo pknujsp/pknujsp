@@ -27,7 +27,7 @@
 
 > 캘린더와 지도를 결합하여 약속 장소 주변의 정보와 날씨 정보를 표시합니다.
 
-(https://play.google.com/store/apps/details?id=com.zerodsoft.calendarplatform&pcampaignid=web_share)
+(https://play.google.com/store/apps/details?id=com.zerodsoft.calendarplatform)
 
 | | | |
 | --- | --- | --- |
