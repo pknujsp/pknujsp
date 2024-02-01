@@ -1,16 +1,15 @@
-android, kotlin
-
 ## Applications(Android)
 
-### 캘린더 플랫폼
+### 에브리웨더 - 날씨 정보 여기에서 모두 온에어!
+([https://github.com/pknujsp/](https://play.google.com/store/apps/details?id=io.github.pknujsp.everyweather))
 
-> 캘린더와 지도를 결합하여 약속 장소 주변의 정보와 날씨 정보를 표시합니다.
+> 날씨 정보를 Ai로 요약받고, 여러 개의 날씨 제공사의 예보를 비교할 수 있는 안드로이드 날씨 애플리케이션
 
-(https://play.google.com/store/apps/details?id=com.zerodsoft.calendarplatform&pcampaignid=web_share)
+**출시 예정**
 
-| | | |
-| --- | --- | --- |
-| ![image](https://github.com/pknujsp/pknujsp/assets/48265129/daf42280-d993-4ce4-8f6f-2910c08149a6) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/9a84a735-9f0d-4138-87ca-c2dcee35edc0) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/6560b81e-b27e-48e8-9c5b-449dda11d494) |
+| | | | |
+| --- | --- | --- | --- |
+| ![264584938-8898ceb7-a6a2-4cfb-9004-e68b5024682f](https://github.com/pknujsp/pknujsp/assets/48265129/856bb149-4ccc-4ce5-84f8-f2512bcebf87) | ![KakaoTalk_20230831_172617056](https://github.com/pknujsp/pknujsp/assets/48265129/9261c150-903a-4207-a437-6bc439c1f7ba) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/3a01d1ff-11aa-456f-a221-0017729aedee) | ![264586332-09b42035-3959-4594-bd7c-2f34ebfd3801](https://github.com/pknujsp/pknujsp/assets/48265129/d90a4e5b-0577-4e87-b837-fc4675000f9a) |
 
 ### Medilenz
 
@@ -24,17 +23,15 @@ android, kotlin
 | --- | --- | --- | --- |
 | ![KakaoTalk_20230901_214556423](https://github.com/pknujsp/pknujsp/assets/48265129/703e51e7-a773-47e1-9ac3-03094b28b706) | ![KakaoTalk_20230901_214556423_03](https://github.com/pknujsp/pknujsp/assets/48265129/8db7c196-2443-4841-8350-31da1e04d051) | ![KakaoTalk_20230901_214556423_02](https://github.com/pknujsp/pknujsp/assets/48265129/7d91741b-48a4-4476-a58d-2d37cd6ea111) | ![KakaoTalk_20230901_214556423_01](https://github.com/pknujsp/pknujsp/assets/48265129/4d3c733e-d9bc-4c61-ab1e-efec2ffe9c78) |
 
-### WeatherWizard
-(https://github.com/pknujsp/WeatherWizard)
+### 캘린더 플랫폼
 
-> 여러 개의 날씨 제공사의 예보 정보를 비교할 수 있는 안드로이드 날씨 애플리케이션
+> 캘린더와 지도를 결합하여 약속 장소 주변의 정보와 날씨 정보를 표시합니다.
 
-**출시 예정**
+(https://play.google.com/store/apps/details?id=com.zerodsoft.calendarplatform&pcampaignid=web_share)
 
-| | | | |
-| --- | --- | --- | --- |
-| ![264584938-8898ceb7-a6a2-4cfb-9004-e68b5024682f](https://github.com/pknujsp/pknujsp/assets/48265129/856bb149-4ccc-4ce5-84f8-f2512bcebf87) | ![KakaoTalk_20230831_172617056](https://github.com/pknujsp/pknujsp/assets/48265129/9261c150-903a-4207-a437-6bc439c1f7ba) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/3a01d1ff-11aa-456f-a221-0017729aedee) | ![264586332-09b42035-3959-4594-bd7c-2f34ebfd3801](https://github.com/pknujsp/pknujsp/assets/48265129/d90a4e5b-0577-4e87-b837-fc4675000f9a) |
-
+| | | |
+| --- | --- | --- |
+| ![image](https://github.com/pknujsp/pknujsp/assets/48265129/daf42280-d993-4ce4-8f6f-2910c08149a6) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/9a84a735-9f0d-4138-87ca-c2dcee35edc0) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/6560b81e-b27e-48e8-9c5b-449dda11d494) |
 
 ## Libraries(Android)
 
@@ -86,7 +83,7 @@ public inline fun <T> UiState<T>.onSuccess(block: (T) -> Unit): UiState<T> {
 
 ### Blurring
 
-**성능 문제로 보류, 추후 배포 예정**
+**갤럭시S9이하 스펙의 기기에서 발생하는 성능 문제로 보류, 추후 배포 예정**
 (https://github.com/pknujsp/android-blur)
 
 > Android 12 미만에서도 Window에 흐림 효과를 적용할 수 있게 해주는 라이브러리
