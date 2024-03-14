@@ -1,17 +1,24 @@
 ## Applications(Android)
 
-### 에브리웨더 - 날씨 정보 여기에서 모두 온에어!
+### <img src="https://github.com/pknujsp/pknujsp/assets/48265129/8aa9c017-182b-4396-a027-1a1b17f026c7" width="32px" height="auto"/>  에브리웨더 - 날씨 정보 여기에서 모두 온에어!
+---
+
 (https://play.google.com/store/apps/details?id=io.github.pknujsp.everyweather)
 
 > 날씨 정보를 Ai로 요약받고, 여러 개의 날씨 제공사의 예보를 비교할 수 있는 안드로이드 날씨 애플리케이션
 
+
 **출시 예정**
 
-| | | | |
-| --- | --- | --- | --- |
-| ![264584938-8898ceb7-a6a2-4cfb-9004-e68b5024682f](https://github.com/pknujsp/pknujsp/assets/48265129/856bb149-4ccc-4ce5-84f8-f2512bcebf87) | ![KakaoTalk_20230831_172617056](https://github.com/pknujsp/pknujsp/assets/48265129/9261c150-903a-4207-a437-6bc439c1f7ba) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/3a01d1ff-11aa-456f-a221-0017729aedee) | ![264586332-09b42035-3959-4594-bd7c-2f34ebfd3801](https://github.com/pknujsp/pknujsp/assets/48265129/d90a4e5b-0577-4e87-b837-fc4675000f9a) |
+| | | |
+| --- | --- | --- |
+| ![KakaoTalk_20240309_022637982](https://github.com/pknujsp/pknujsp/assets/48265129/1395395b-491c-4ce6-b921-88eb0485698c) | ![KakaoTalk_20240309_022637982_03](https://github.com/pknujsp/pknujsp/assets/48265129/2f0da063-3ffa-48cc-9c51-fd68672feec3) | ![KakaoTalk_20240309_022637982_04](https://github.com/pknujsp/pknujsp/assets/48265129/80972092-fa46-4aac-9674-35215c61114e) |
+| ![KakaoTalk_20240309_022637982_05](https://github.com/pknujsp/pknujsp/assets/48265129/0850ae05-28fa-40c6-98a9-95ee1336ebc8) | ![KakaoTalk_20240309_022637982_10](https://github.com/pknujsp/pknujsp/assets/48265129/fa8b7825-2468-4c54-85c8-520f04e1d692) | ![KakaoTalk_20240309_022637982_08](https://github.com/pknujsp/pknujsp/assets/48265129/2b2eda2f-544e-4073-afa9-95e608b0c0be) |
+| ![시간별예보비교위젯](https://github.com/pknujsp/pknujsp/assets/48265129/a0cc162b-0c12-4b2e-8b1a-2f30d35f7d65) | ![일별예보비교위젯](https://github.com/pknujsp/pknujsp/assets/48265129/ae60c2f5-8f5e-4f57-9211-2395aa7faefa) | ![상시 알림](https://github.com/pknujsp/pknujsp/assets/48265129/790541eb-556f-4566-84be-dad94113bfa2) |
 
-### Medilenz
+
+### <img src="https://github.com/pknujsp/pknujsp/assets/48265129/e2c89bd0-ef8d-4c7e-be80-dd47712b2030" width="32px" height="auto"/>  Medilenz
+---
 
 > 의약품 정보를 찾고 다른 사람들과 의견을 나눌 수 있는 의약품 정보 커뮤니티 서비스.
 >
@@ -21,17 +28,21 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| ![KakaoTalk_20230901_214556423](https://github.com/pknujsp/pknujsp/assets/48265129/703e51e7-a773-47e1-9ac3-03094b28b706) | ![KakaoTalk_20230901_214556423_03](https://github.com/pknujsp/pknujsp/assets/48265129/8db7c196-2443-4841-8350-31da1e04d051) | ![KakaoTalk_20230901_214556423_02](https://github.com/pknujsp/pknujsp/assets/48265129/7d91741b-48a4-4476-a58d-2d37cd6ea111) | ![KakaoTalk_20230901_214556423_01](https://github.com/pknujsp/pknujsp/assets/48265129/4d3c733e-d9bc-4c61-ab1e-efec2ffe9c78) |
+| ![메인](https://github.com/pknujsp/pknujsp/assets/48265129/86923b95-2cac-4cdd-a2e0-6b2a7cfe9f78) | ![ai카메라](https://github.com/pknujsp/pknujsp/assets/48265129/c021901c-8399-4408-bef4-f6dc466fd814) | ![약 검색](https://github.com/pknujsp/pknujsp/assets/48265129/0214da7f-4518-4f8d-ae0d-698eb307d651) | ![댓글](https://github.com/pknujsp/pknujsp/assets/48265129/5dc2fb73-37e7-4781-b482-2b0995fa2f6c) |
 
-### 캘린더 플랫폼
+
+### <img src="https://github.com/pknujsp/pknujsp/assets/48265129/e90bd2a3-1378-4735-80bd-e963d50877cd" width="32px" height="auto"/> 캘린더 플랫폼
+
+---
 
 > 캘린더와 지도를 결합하여 약속 장소 주변의 정보와 날씨 정보를 표시합니다.
 
 (https://play.google.com/store/apps/details?id=com.zerodsoft.calendarplatform)
 
-| | | |
-| --- | --- | --- |
-| ![image](https://github.com/pknujsp/pknujsp/assets/48265129/daf42280-d993-4ce4-8f6f-2910c08149a6) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/9a84a735-9f0d-4138-87ca-c2dcee35edc0) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/6560b81e-b27e-48e8-9c5b-449dda11d494) |
+| | | | |
+| --- | --- | --- | --- |
+| ![image](https://github.com/pknujsp/pknujsp/assets/48265129/daf42280-d993-4ce4-8f6f-2910c08149a6) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/9a84a735-9f0d-4138-87ca-c2dcee35edc0) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/6560b81e-b27e-48e8-9c5b-449dda11d494) | ![캘린더플랫폼1](https://github.com/pknujsp/pknujsp/assets/48265129/a01d56de-6480-4151-807e-ebc86287acfd) |
+
 
 ## Libraries(Android)
 
