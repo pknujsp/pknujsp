@@ -1,7 +1,6 @@
 ## Applications(Android)
 
 ### <img src="https://github.com/pknujsp/pknujsp/assets/48265129/8aa9c017-182b-4396-a027-1a1b17f026c7" width="32px" height="auto"/>  에브리웨더 - 날씨 정보 여기에서 모두 온에어!
----
 
 (https://play.google.com/store/apps/details?id=io.github.pknujsp.everyweather)
 
@@ -16,9 +15,10 @@
 | ![KakaoTalk_20240309_022637982_05](https://github.com/pknujsp/pknujsp/assets/48265129/0850ae05-28fa-40c6-98a9-95ee1336ebc8) | ![KakaoTalk_20240309_022637982_10](https://github.com/pknujsp/pknujsp/assets/48265129/fa8b7825-2468-4c54-85c8-520f04e1d692) | ![KakaoTalk_20240309_022637982_08](https://github.com/pknujsp/pknujsp/assets/48265129/2b2eda2f-544e-4073-afa9-95e608b0c0be) |
 | ![시간별예보비교위젯](https://github.com/pknujsp/pknujsp/assets/48265129/a0cc162b-0c12-4b2e-8b1a-2f30d35f7d65) | ![일별예보비교위젯](https://github.com/pknujsp/pknujsp/assets/48265129/ae60c2f5-8f5e-4f57-9211-2395aa7faefa) | ![상시 알림](https://github.com/pknujsp/pknujsp/assets/48265129/790541eb-556f-4566-84be-dad94113bfa2) |
 
+---
 
 ### <img src="https://github.com/pknujsp/pknujsp/assets/48265129/e2c89bd0-ef8d-4c7e-be80-dd47712b2030" width="32px" height="auto"/>  Medilenz
----
+
 
 > 의약품 정보를 찾고 다른 사람들과 의견을 나눌 수 있는 의약품 정보 커뮤니티 서비스.
 >
@@ -30,10 +30,9 @@
 | --- | --- | --- | --- |
 | ![메인](https://github.com/pknujsp/pknujsp/assets/48265129/86923b95-2cac-4cdd-a2e0-6b2a7cfe9f78) | ![ai카메라](https://github.com/pknujsp/pknujsp/assets/48265129/c021901c-8399-4408-bef4-f6dc466fd814) | ![약 검색](https://github.com/pknujsp/pknujsp/assets/48265129/0214da7f-4518-4f8d-ae0d-698eb307d651) | ![댓글](https://github.com/pknujsp/pknujsp/assets/48265129/5dc2fb73-37e7-4781-b482-2b0995fa2f6c) |
 
+---
 
 ### <img src="https://github.com/pknujsp/pknujsp/assets/48265129/e90bd2a3-1378-4735-80bd-e963d50877cd" width="32px" height="auto"/> 캘린더 플랫폼
-
----
 
 > 캘린더와 지도를 결합하여 약속 장소 주변의 정보와 날씨 정보를 표시합니다.
 
@@ -43,6 +42,7 @@
 | --- | --- | --- | --- |
 | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/daf42280-d993-4ce4-8f6f-2910c08149a6) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/9a84a735-9f0d-4138-87ca-c2dcee35edc0) | ![image](https://github.com/pknujsp/pknujsp/assets/48265129/6560b81e-b27e-48e8-9c5b-449dda11d494) | ![캘린더플랫폼1](https://github.com/pknujsp/pknujsp/assets/48265129/a01d56de-6480-4151-807e-ebc86287acfd) |
 
+---
 
 ## Libraries(Android)
 
@@ -84,6 +84,8 @@ public inline fun <T> UiState<T>.onSuccess(block: (T) -> Unit): UiState<T> {
 }
 ```
 
+---
+
 ### SmartDeeplink
 
 **리팩토링 예정, 개발 버전 배포 중**
@@ -91,17 +93,16 @@ public inline fun <T> UiState<T>.onSuccess(block: (T) -> Unit): UiState<T> {
 
 > Android Navigation Deeplink 사용 시 데이터를 좀 더 편하게 주고 받을 수 있도록 도와주는 라이브러리
 
+---
 
 ### Blurring
 
-**갤럭시S9이하 스펙의 기기에서 발생하는 성능 문제로 보류, 추후 배포 예정**
+**갤럭시 노트8 이하의 기기에서 발생하는 성능 문제로 보류, 추후 배포 예정**
 (https://github.com/pknujsp/android-blur)
 
 > Android 12 미만에서도 Window에 흐림 효과를 적용할 수 있게 해주는 라이브러리
 
-
-
-
+---
 
 <div style="margin: 24px;">
 <div align="center" style="margin-bottom: 20px;">
