@@ -19,6 +19,7 @@
 
 ### <img src="https://github.com/pknujsp/pknujsp/assets/48265129/e2c89bd0-ef8d-4c7e-be80-dd47712b2030" width="32px" height="auto"/>  Medilenz
 
+(https://github.com/pknu-wap/MediLenz)
 
 > 의약품 정보를 찾고 다른 사람들과 의견을 나눌 수 있는 의약품 정보 커뮤니티 서비스.
 >
