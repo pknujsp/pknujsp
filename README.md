@@ -6,9 +6,6 @@
 
 > 날씨 정보를 Ai로 요약받고, 여러 개의 날씨 제공사의 예보를 비교할 수 있는 안드로이드 날씨 애플리케이션
 
-
-**출시 예정**
-
 | | | |
 | --- | --- | --- |
 | ![KakaoTalk_20240309_022637982](https://github.com/pknujsp/pknujsp/assets/48265129/1395395b-491c-4ce6-b921-88eb0485698c) | ![KakaoTalk_20240309_022637982_04](https://github.com/pknujsp/pknujsp/assets/48265129/80972092-fa46-4aac-9674-35215c61114e) | ![KakaoTalk_20240309_022637982_03](https://github.com/pknujsp/pknujsp/assets/48265129/2f0da063-3ffa-48cc-9c51-fd68672feec3) |
